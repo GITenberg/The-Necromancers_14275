@@ -1,0 +1,28 @@
+_repo: The-Necromancers_14275
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benson, Robert Hugh
+    alias: Benson, R. H. (Robert Hugh)
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '4052'
+    url: http://www.gutenberg.org/2009/agents/4052
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
+description: ''
+gutenberg_issued: '2004-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paranormal fiction'
+- !lcc 'PR'
+title: The Necromancers
+url: http://www.gutenberg.org/ebooks/14275
