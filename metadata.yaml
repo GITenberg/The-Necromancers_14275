@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4052
     wikipedia: http://en.wikipedia.org/wiki/Robert_Hugh_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14275#The-Necromancers
 gutenberg_issued: '2004-12-06'
 gutenberg_type: Text
 identifiers:
